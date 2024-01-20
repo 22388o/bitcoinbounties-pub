@@ -1,4 +1,4 @@
-``
+---
 layout: post
 title:  "Design User To Firebolt Wallet"
 date:   2021-11-01 01:01:01 -0500
