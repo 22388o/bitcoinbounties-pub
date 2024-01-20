@@ -2,12 +2,12 @@
 layout: post
 title:  "Design Use Interface  To Firebolt Wallet"
 date:   2021-11-01 01:01:01 -0500
-categories: code privacy
+categories: design privacy
 author: Firebolt Wallet 22388o and Rsync25
 value: TBD
 currency: BTC
 contact: arealayer@gmail.com
-status: open
+status: NEW
 ---
 
 **January 2024**
