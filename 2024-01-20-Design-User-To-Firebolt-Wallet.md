@@ -1,16 +1,16 @@
 
 layout: post
-title:  "Design a Privacy Focused Lightning Network Wallet"
+title:  "Design User To Firebolt Wallet"
 date:   2021-11-01 01:01:01 -0500
 categories: code privacy
-author: Wasabi Wallet Dan Gershony
-value: 1.11
+author: Firebolt Wallet 22388o and Rsync25
+value: TBD
 currency: BTC
-contact: rafe@zksnacks.com
-status: claimed
+contact: arealayer@gmail.com
+status: open
 ---
 
-**November 2021**
+**January 2024**
 
 > 1 BTC will be distributed during Wasabi Wallet’s Lightning Network Privacy Research Grant. We’re looking for researchers and teams of researchers to design the best possible privacy-focused Lightning Network light client. One may apply with a team or individually.
 > 0.5 BTC will be given out to the selected research team, while the other...
