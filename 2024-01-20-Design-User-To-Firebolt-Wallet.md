@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Design Use Interface  To Firebolt Wallet"
+title:  "Design User Interface  To Firebolt Wallet"
 date:   2021-11-01 01:01:01 -0500
 categories: design privacy
 author: Firebolt Wallet 22388o and Rsync25
