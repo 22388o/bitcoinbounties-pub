@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Design User Interface  To Firebolt Wallet"
-date:   2021-11-01 01:01:01 -0500
+date:   2024-01-21 01:01:01 -0500
 categories: design privacy
 author: Firebolt Wallet 22388o and Rsync25
 value: TBD
